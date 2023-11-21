@@ -7,9 +7,8 @@ const cors = require('cors')
 app.use(cors());
 app.use(express.json());
  
-
-app.get('/', (req, res) => {
-  res.send('Hello World!')
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'frontend','index.html'));
 })
 //mongodb 
 
