@@ -13,15 +13,15 @@ const FavoriteBook = () => {
             <p className='mb-10 text-lg md:w-5/6'>WE <b>INSIGHT</b> PROVIDE THE BOOK YOU NEED IN THE BEST WAY POSSIBLE</p>
             <div className='flex flex-col sm:flex-row justify-between gap-6 md:w-3/4 my-14'>
               <div>
-                <h3 className='text-3xl font-bold '>100+</h3>
+                <h3 className='text-3xl font-bold '>15+</h3>
                 <p className='text-base'>BOOKS AVAILABLE</p>
               </div>
               <div>
-                <h3 className='text-3xl font-bold '>55+</h3>
+                <h3 className='text-3xl font-bold '>3+</h3>
                 <p className='text-base'>Regsitered  Users</p>
               </div>
               <div>
-                <h3 className='text-3xl font-bold '>200+</h3>
+                <h3 className='text-3xl font-bold '>12+</h3>
                 <p className='text-base'>Books  Downloaded</p>
               </div>
             </div>
