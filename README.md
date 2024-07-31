@@ -30,12 +30,50 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
    cd insight-bookstore
 
 ## Usage
- ```bash
-  cd backend
-  npm install
+    ```bash
+     cd backend
+     npm install
+   
+   
+     cd frontend
+     npm install
 
 
-  cd frontend
-  npm install
+## Technologies Used
+
+- **Frontend:**
+  - React
+  - Redux
+  - Axios
+  - Bootstrap/Material-UI (Choose based on your preference)
+  
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB with Mongoose
+  - JWT for authentication
+  
+- **Tools:**
+  - Git
+  - Postman for API testing
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact us at contact@insightbookstore.com.
+
 
 
