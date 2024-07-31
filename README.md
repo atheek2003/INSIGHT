@@ -1,7 +1,5 @@
 # Insight Bookstore
 
-![Insight Logo](path/to/your/logo.png)
-
 Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to browse, search, and purchase books online, providing a seamless and intuitive experience.
 
 ## Table of Contents
