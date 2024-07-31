@@ -9,8 +9,6 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,7 +30,8 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
    ```bash
    git clone https://github.com/yourusername/insight-bookstore.git
    cd insight-bookstore
-   
+
+## Usage
  ```bash
    cd server
    npm install
