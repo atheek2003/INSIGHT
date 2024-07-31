@@ -33,12 +33,13 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
    git clone https://github.com/yourusername/insight-bookstore.git
    cd insight-bookstore
    
-```bash
-cd server
-npm install
+ ```bash
+   cd server
+   npm install
 
-# Install client dependencies
-cd ../client
-npm install
+```bash
+
+ cd ../client
+ npm install
 
 
