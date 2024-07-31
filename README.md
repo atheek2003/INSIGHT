@@ -28,17 +28,16 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/insight-bookstore.git
+   git clone https://github.com/atheek2003/INSIGHT.git
    cd insight-bookstore
 
 ## Usage
  ```bash
-   cd server
+   cd backend
    npm install
 
-```bash
 
- cd ../client
- npm install
+  cd frontend
+  npm install
 
 
