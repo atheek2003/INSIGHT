@@ -31,8 +31,8 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
 
 ## Usage
  ```bash
-   cd backend
-   npm install
+  cd backend
+  npm install
 
 
   cd frontend
