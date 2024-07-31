@@ -30,7 +30,7 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
    cd insight-bookstore
 
 ## Usage
-    ```bash
+    
      cd backend
      npm install
    
@@ -45,13 +45,13 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
   - React
   - Redux
   - Axios
-  - Bootstrap/Material-UI (Choose based on your preference)
+  - Bootstrap
   
 - **Backend:**
   - Node.js
   - Express.js
   - MongoDB with Mongoose
-  - JWT for authentication
+  
   
 - **Tools:**
   - Git
