@@ -46,6 +46,8 @@ Welcome to **Insight**, an online bookstore built using the MERN (MongoDB, Expre
   - Redux
   - Axios
   - Bootstrap
+  - Tailwind CSS
+   
   
 - **Backend:**
   - Node.js
